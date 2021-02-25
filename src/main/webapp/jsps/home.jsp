@@ -12,7 +12,7 @@
 <h1 align="center">Lion Technologies -->Devops operations centre</h1>
 	<h1 align="center"> Welcome to Lion Technologies Pros.......We have a demo on DevOps E Degree Master Program with Linux, K8S and AWS  on 
 	Saturday March 27, 2021 at 8am EST for our new batch. 
-	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Infrastructures. 
+	Lion Technology is a an ideal online training  platform for DevOps and Cloud Infrastructures. 
 	</h1>
 	<h1 align="center" >JESUS IS KING</h1>
 <hr>
@@ -22,20 +22,20 @@
 	</span>
 	<span style="font-weight: bold;">
 		Lion Technologies Pros, 
-		Toronto, Ontario, Canada
+		Orillia, Ontario, Canada
 		Dallas, TX USA, 
 		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		info@liontechpros.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:myliontech.tech@gmail.com">Mail to Lion Pros Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center>Lion Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://myliontech.tech/">Lion Technologies</a> </small></p>
 
 </body>
 </html>
