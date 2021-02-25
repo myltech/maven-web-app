@@ -14,7 +14,7 @@
 	Saturday March 27, 2021 at 8am EST for our new batch. 
 	Lion Technology is a an ideal online training  platform for DevOps and Cloud Infrastructures. 
 	</h1>
-	<h1 align="center" >JESUS IS KING</h1>
+	<h1 align="center" >JESUS IS LORD OVER CANADA</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
