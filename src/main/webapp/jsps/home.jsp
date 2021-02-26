@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Lion Tech Pros.com- Home Page</title>
-<link href="images/LT.JPG" rel="icon">
+<link href="images/Logo.jpg" rel="icon">
 </head>
 </head>
 <body>
