@@ -23,7 +23,7 @@
 		Lion Technologies Pros, 
 		Orillia, Ontario, Canada
 		Dallas, TX USA, 
-		+1 437 215 2483,
+		+1 647-381-8836
 		info@liontechpros.com
 		<br>
 		<a href="mailto:myliontech.tech@gmail.com">Mail to Lion Pros Technologies</a>
