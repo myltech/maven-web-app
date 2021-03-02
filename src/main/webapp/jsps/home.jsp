@@ -14,6 +14,7 @@
 	Lion Technology is your Digital Business Labs.... 
 	</h1>
 	<h1 align="center" >JESUS IS LORD OVER CAMEROON AND AFRICA,  We love Jesus </h1>
+	<h1> align="center">For all your Digital Business Needs</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
