@@ -13,7 +13,7 @@
 	<h1 align="center"> Welcome to Lion Technologies Pros.......For all your digital business needs, look no further, Lion Tech pros is the home of Digital solutions for small and medium size businesses.. 
 	Lion Technology is your Digital Business Labs.... 
 	</h1>
-	<h1 align="center" >JESUS IS LORD OVER CAMEROON AND AFRICA </h1>
+	<h1 align="center" >JESUS IS LORD OVER CAMEROON AND AFRICA,  We love Jesus </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
