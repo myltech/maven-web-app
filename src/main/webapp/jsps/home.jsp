@@ -21,7 +21,7 @@
 	</span>
 	<span style="font-weight: bold;">
 		Lion Technologies Pros, 
-		Orillia, Ontario, Canada
+		Toronto, Ontario, Canada
 		Dallas, TX USA, 
 		+1 647-381-8836
 		info@liontechpros.com
