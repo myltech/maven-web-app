@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>boa-javaweb-app</finalName>
+		<finalName>city-of-orillia</finalName>
 		
 		<plugins>
 			<plugin>
